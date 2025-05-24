@@ -1,1 +1,15 @@
+# _data/projects.yml
+- title:  Differentiable Packing
+  image:  /assets/images/packing_thumb.png
+  blurb:  "End-to-end gradient search for irregular 3D packing in e-commerce."
+  url:    https://github.com/frank-kim/diff-packing
 
+- title:  Gaussian-Process PSR
+  image:  /assets/images/gp_psr_thumb.png
+  blurb:  "Real-time Poisson Surface Reconstruction with scalable GP kernels."
+  url:    https://frank-kim.github.io/gp-psr/
+
+- title:  cuRobo IK Bench
+  image:  /assets/images/curobo_thumb.gif
+  blurb:  "CUDA-accelerated inverse-kinematics solver vs. CPU baselines."
+  url:    https://github.com/frank-kim/curobo-ik
